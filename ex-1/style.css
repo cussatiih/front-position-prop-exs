@@ -16,6 +16,7 @@ body {
 .gato {
     position: relative;
     left: 50px;
+    z-index: 2;
 }
 
 .cao {
